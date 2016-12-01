@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">YenMovies</string>
+
+    <!-- strings in selector_item.xml -->
+    <string name="release_date">Release date:</string>
+    <string name="vote_count">Vote count:</string>
+    <string name="score">Score:</string>
+
+    <!--string in detail_item_film.xmlm.xml-->
+    <string name="original_title">Title:</string>
+    <string name="genre">Genre:</string>
+    <string name="status">Status:</string>
+    <string name="tagline">Tagline:</string>
+    <string name="description">Description:</string>
+    <string name="production_companies">Production companies:</string>
+    <string name="production_countries">Production countries:</string>
+    <string name="budget">Budget:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="revenue">Revenue:</string>
+
+    <!--string in detail_item_film.xmlm.xml-->
+    <string name="number_of_seasons">Seasons:</string>
+    <string name="number_of_episodes">Episodes:</string>
+    <string name="runtime_episode">Episode Runtime:</string>
+    <string name="first_air_date">First air date:</string>
+
+    <!--strings in NavigationDrawer-->
+    <string name="title_film_latest">Latest films</string>
+    <string name="title_film_top_rated">Top rated films</string>
+    <string name="title_film_most_popular">Most popular films</string>
+
+    <!--Message string on AlerDialog when "About" is selected-->
+    <string name="about_message">YenMoviesapp allows you to be updated not only on Film and may be soon will come also TV  Live Stream. It has a very simple menu on the top left corner which will take you along the different choices.</string>
+
+</resources>
